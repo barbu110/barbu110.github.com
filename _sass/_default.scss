@@ -264,6 +264,12 @@ strong {
     text-align: center;
 }
 
+.content {
+    p {
+        text-align: justify;
+    }
+}
+
 @media (max-width: 800px) {
     /* =Base */
     p {
