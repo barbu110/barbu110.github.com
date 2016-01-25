@@ -245,6 +245,25 @@ strong {
     margin-top: 100px;
 }
 
+/* =License */
+.license {
+    
+}
+
+.license__logo {
+    display: block;
+    border: 0;
+    margin-bottom: 20px;
+}
+
+.license__text {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    display: block;
+    text-align: center;
+}
+
 @media (max-width: 800px) {
     /* =Base */
     p {
@@ -301,5 +320,14 @@ strong {
 
     .post-title__subtitle {
         font-size: 18px;
+    }
+
+    .license__logo {
+        margin-bottom: 30px;
+    }
+
+    .license__text {
+        text-align: center;
+        width: auto;
     }
 }

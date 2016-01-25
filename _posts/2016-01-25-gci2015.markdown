@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Google Code-in 2015"
+subtitle:   "Some thoughts about my experience"
+date:       2016-01-25 10:50:35
+categories: [gci, contest]
+permalink:  /gci2015
+---
+
+__[Google Code-in 2015](http://codein.withgoogle.com/)__ ends in less than 24 hours. It's been a great journey. I worked with [Wikimedia Foundation](https://wikimediafoundation.org/) this year. I've been writing code for [MediaWiki](https://www.mediawiki.org/), the software that powers [Wikipedia.org](https://www.wikipedia.org/) and many other high-traffic wikis.
+
+# What happened?
+
+During GCI, I learnt a lot of new things, I completed many tasks, I filled and closed many bug reports and I added some cool features to the core software and some of the available extensions, features that you will see in the close future on Wikipedia and other wikis. It was the first time I met true scalable software with a codebase summing almost one million lines of code. I met nice, talented and hard-working people (well... not literally "met" because everything happened on Internet Relay Chat); some of them were my official mentors for the tasks I claimed, others were just people willing to help. 
+
+Enough about how great Wikimedia is. Let me say something about the contest itself. I registered on the 11th of December, 4 days after the start. I claimed my first task, a Beginner task which said "Get on IRC and meet people". After my very fast task was approved, I claimed more, mainly coding tasks. I successfully completed some difficult ones (like changing user interface, and changing core logic that influences the entire software). I started to get more and more familiar with the APIs, basically I started to know where to look and how to search for the things I needed; then I was able to complete tasks faster and better. Yesterday after I successfully completed my work and submitted the patch to Code Review, something happened with the GCI website and my mentor was no longer able to approve my task. Although it was 3 AM in San Francisco, the guys at Google fixed this issue in a couple of hours and I got my task accepted.
+
+# Who are the guys that I worked with?
+
+I want to thank TTO (a volunteer contributor which helped me even when he wasn't supposed to), Andre Klapper (the organization administrator who mentored me for some of my tasks), Federico Leva (the guy who takes care of wikis' internalization) and many other WMF employees and volunteer contributors. I had a great time completing tasks during the contest and I decided to keep contributing to MediaWiki as volunteer.
+
+# Will I participate next year?
+
+Shortly, __yes, I will__! Google Code-in is a great experience, because you get to code real-life things and be one of the people that power some highly used piece of software, like I did with MediaWiki. Google Code-in makes you feel important! After the contest, you become a volunteer contributor and you can keep working.
+
+So go ahead, get ready and register next year!
