@@ -62,14 +62,25 @@ strong {
     color: $iron;
 }
 
-/* =Header */
 .wrapper {
     max-width: 800px;
     margin: 100px auto;
 }
 
+/* =Header */
+.top-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .header {
+    padding: 50px 0;
+    background-color: #999a9b;
     overflow: hidden;
+
+    * {
+        color: #ffffff;
+    }
 }
 
 .navigation {
@@ -79,7 +90,7 @@ strong {
 .logo {
     font-size: 50px;
     font-weight: 700;
-    color: $iron;
+    color: #ffffff;
     display: block;
 }
 
@@ -247,7 +258,7 @@ strong {
 
 /* =License */
 .license {
-    
+    margin-top: 100px;
 }
 
 .license__logo {
